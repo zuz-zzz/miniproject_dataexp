@@ -8,13 +8,13 @@ Welcome to Miniproject: Data exploration with use of Global Terrorism Database (
 ## Project Instructions
 
 1. Project uses those libraries:
-    *numpy
-    *pandas
-    *csv
-    *pycountry
-    *plotly
-    *matplotlib
-    *seaborn
+    * numpy
+    * pandas
+    * csv
+    * pycountry
+    * plotly
+    * matplotlib
+    * seaborn
     
 2. Clone the repository to your local PC
 
