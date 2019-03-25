@@ -26,7 +26,7 @@ Welcome to Miniproject: Data exploration with use of Global Terrorism Database (
 
 
 3. Unzip the data
-    In the repo you'll find a file : globalterrorismdb_0718dist.zip. If you're using Linux, you can uzip the file by using the command:
+In the repo you'll find a file : globalterrorismdb_0718dist.zip. If you're using Linux, you can uzip the file by using the command:
 
     ```
     unzip globalterrorismdb_0718dist.zip
